@@ -1,8 +1,7 @@
-package getyourguidetest;
 
 import java.util.HashMap;
 
-public class GetYourGuideTest {
+public class Solution {
 
     public static void main(String[] args) {
         System.out.println(solution("00:00:01,400-234-090\n00:00:01,701-080-080\n01:05:00,600-234-090"));
